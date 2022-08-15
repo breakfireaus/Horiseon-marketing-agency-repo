@@ -17,8 +17,8 @@ go to the following website to see the final product https://breakfireaus.github
 
 ## Credit
 
-Matthew Younger
-Chee Tai for advice about semantics
+Matthew Younger,
+Chee Tai for advice about semantics and css
 
 ## License
 
