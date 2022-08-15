@@ -6,8 +6,8 @@
 - A marketing agency has asked me to refactor an existing site to make it more accessible.
 - This project was built to give people more refactor an existing site to make it more accessible.
 - web accessibility ensures that people with disabilities can access a website using assistive technologies like video captions, 
-screen readers, and braille keyboards. Accessibility is good for business—for one thing, accessible sites rank higher in search 
-engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
+screen readers, and braille keyboards. 
+- Accessibility is good for business—for one thing, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
 - I got a better understanding of HTML and semantic elements
 
 
@@ -17,6 +17,8 @@ go to the following website to see the final product https://breakfireaus.github
 
 ## Credit
 
+Matthew Younger
+Chee Tai for advice about semantics
 
 ## License
 
